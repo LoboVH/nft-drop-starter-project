@@ -1,0 +1,19 @@
+{
+  "name": "Thus Spake Zaratustra",
+  "symbol": "TSZ",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CgmEYDERgUvvz6npz1kUCPEUcsZxpmiitEHNSibQBA5Z",
+        "share": 100
+      }
+    ]
+  }
+}

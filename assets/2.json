@@ -1,0 +1,19 @@
+{
+  "name": "The Book Of Mirdad",
+  "symbol": "TBOM",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CgmEYDERgUvvz6npz1kUCPEUcsZxpmiitEHNSibQBA5Z",
+        "share": 100
+      }
+    ]
+  }
+}
